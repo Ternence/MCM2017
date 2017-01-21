@@ -1,8 +1,5 @@
 # MCM2017
 
-# MCM2017
-MCM 2017
-
 # A
 2017 MCM Problem A: Managing The Zambezi River<br>
 <br>The Kariba Dam on the Zambezi River is one of the larger dams in Africa. Its construction was controversial, and a 2015 report by the Institute of Risk Management of South Africa included a warning that the dam is in dire need of maintenance. A number of options are available to the Zambezi River Authority (ZRA) that might address the situation. Three options in particular are of interest to ZRA:
